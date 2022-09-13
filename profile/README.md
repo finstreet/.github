@@ -1,9 +1,6 @@
-![]()
-
-
 <p align="center">
   <a href="https://www.finstreet.de">
-    <img src="https://github.com/finstreet/.github/blob/main/profile/assets/finstreet_logo_claim.png" alt="finstreet." />
+    <img src="https://github.com/finstreet/.github/blob/main/profile/assets/fintreet-master-final-v2_2.gif" alt="finstreet." />
   </a>
 </p>
 
