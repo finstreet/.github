@@ -4,7 +4,7 @@
   </a>
 </p> -->
 
-<video src='assets/finstreet-image.mp4' width=180 loop muted autoplay />
+<video src='https://www.finstreet.de/wp-content/uploads/2020/12/fintreet-master-final-v2_2.mp4' width=1080 loop muted autoplay />
 
 <p align="center">
 <a href="https://www.finstreet.de" target="_blank">Website</a> 🌐
