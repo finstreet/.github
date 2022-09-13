@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://www.finstreet.de">
-    <img src="assets/finstreet_logo_claim.png" alt="finstreet." />
+    <img src="https://github.com/finstreet/.github/blob/main/profile/assets/finstreet_logo_claim.png" alt="finstreet." />
   </a>
 </p>
 
