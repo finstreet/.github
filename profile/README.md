@@ -7,5 +7,5 @@
 <p align="center">
 <a href="https://www.finstreet.de" target="_blank">Website</a> 🌐
 |
-<a href="https://https://www.finstreet.de/karriere" target="_blank">Open Positions</a> 💼
+<a href="https://www.finstreet.de/karriere" target="_blank">Open Positions</a> 💼
 </p>
