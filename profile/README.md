@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://www.finstreet.de">
-    <img src="https://github.com/finstreet/.github/raw/main/profile/assets/finstreet_logo_claim.png" alt="finstreet." />
+    <img src="https://www.finstreet.de/wp-content/uploads/2023/09/finstreet-black.svg" alt="finstreet." />
   </a>
 </p>
 
